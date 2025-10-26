@@ -1,0 +1,53 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "com.anime.day.v3.6.1.apk"
+  ],
+  "treeExpansionsV2": [
+    "c:zg.a"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "zg.a",
+      "subPath": "java",
+      "caret": 160,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "z3.g",
+      "subPath": "java",
+      "caret": 3223,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\USER\\AppData\\Local\\skylot\\jadx\\cache\\projects\\com.anime.day.v3.6.1-a1579130a87b685cbbaec3107ba60176",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "egydead"
+  ],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
